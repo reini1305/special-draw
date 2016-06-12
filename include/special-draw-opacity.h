@@ -3,7 +3,7 @@
 #include <@smallstoneapps/linked-list/linked-list.h>
 #include "special-draw.h"
 
-#ifndef PBL_APLITE
+#ifndef PBL_PLATFORM_APLITE
 typedef enum {
     GOpacity0   = 0b000,
     GOpacity0_5 = 0b001,
